@@ -22,7 +22,7 @@
 ## Problemas
 
 1. [Tema 2: Problemas con Notación Backus-Naur (BNF)](pbs-tema-02-notacion-bnf.pdf)
-2. [Tema 3: Problemas con expresiones](pbs-tema-03-expresiones.pdf) ([soluciones](pbs-tema-03-expresiones-soluciones.pdf))
+2. [Tema 3: Problemas con expresiones](pbs-tema-03-expresiones.pdf)
 3. [Tema 4: Problemas sobre composición condicional](pbs-tema-04a-composicion-condicional.pdf) ([algunas soluciones](https://github.com/prog1-eina/problemas-t04-instruccion-condicional))
 4. [Tema 4: Problemas sobre composición iterativa](pbs-tema-04b-composicion-iterativa.pdf) ([algunas soluciones](https://github.com/prog1-eina/problemas-t04-instruccion-iterativa))
 5. [Tema 5: Problemas con enteros](pbs-tema-05-enteros.pdf) ([algunas soluciones](https://github.com/prog1-eina/problemas-t05-enteros))
